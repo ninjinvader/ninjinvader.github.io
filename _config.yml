@@ -22,7 +22,7 @@ title: Ninjinvader
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my site. There are many like it, but this one is mine.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ninjinvader.github.io"
 twitter_username: 
 github_username:  ninjinvader
