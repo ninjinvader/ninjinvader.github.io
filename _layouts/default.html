@@ -4,18 +4,22 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Ubuntu">
   </head>
   <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/feud_of_foods">Feud of Foods</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <!--<footer>
-      &copy; to me
-    </footer>-->
+    <div id="page_wrapper">
+        <nav>
+        <a href="/">Home</a>
+        <!-- <a href="/feud_of_foods">Feud of Foods</a> -->
+        </nav>
+        <h1>{{ page.title }}</h1>
+        <section>
+        {{ content }}
+        </section>
+        <!--<footer>
+        &copy; to me
+        </footer>-->
+    </div>
   </body>
 </html>

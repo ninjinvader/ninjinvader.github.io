@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{{ content }}
+<div id="game_wrapper">
+  <iframe src="/{{ page.game_directory }}/index.html"
+   width="{{ page.game_width }}" 
+   height="{{ page.game_height }}"
+   style="-webkit-transform:scale({{ page.scale }});-moz-transform-scale({{ page.scale }});-moz-transform-origin: top left; -webkit-transform-origin: top left; -o-transform-origin: top left; -ms-transform-origin: top left; transform-origin: top left;"
+   ></iframe>
+</div>
