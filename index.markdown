@@ -12,7 +12,7 @@ Bonjour! Welcome to my website. I am planning to have many of my games posted he
 On YouTube I've never spoken about it, but now that I have passed 50 subscribers, I wanted to make some of my projects free to the public! This sort of thing is new for me, so don't be surprised by any weird website design, typ0s, or bugs.  :)
 
 ## Links
-* [My YouTube Channel!](https://www.youtube.com/channel/UC39UvpMlQLqUp6aTnYSK8cQ){:target="_blank"}
+* Nothing yet...
 
 ## Games
 <ul>
