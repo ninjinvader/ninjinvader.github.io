@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feud of Foods"
+title:  "🥞Feud of Foods"
 date:   2022-08-12 14:12:32 -0500
 categories: game
 game_directory: games/feud_of_foods

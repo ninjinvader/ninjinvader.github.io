@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apocalypse"
+title:  "👹Apocalypse"
 date:   2022-08-13 14:12:32 -0500
 categories: game
 game_directory: games/apocalypse_v6
