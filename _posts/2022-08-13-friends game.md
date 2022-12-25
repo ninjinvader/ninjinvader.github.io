@@ -3,7 +3,7 @@ layout: post
 title:  "🎄Merry Christmas BISHOP AND EAMON!!!"
 date:   2022-08-13 14:12:32 -0500
 categories: game
-game_directory: games/FriendsGame
+game_directory: games/FriendsGame_v1
 game_width: 1344
 game_height: 768
 scale: 0.6
