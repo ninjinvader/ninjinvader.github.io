@@ -1,0 +1,51 @@
+body {
+  background: #222222;
+  color: #00e607;
+  font-family: 'Press Start 2P', monospace;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+.page {
+  position:absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size:2.5em;
+}
+
+.big-text {
+  font-size: 15em;
+}
+
+a {
+  font-size:2em;
+  color: #00e607;
+}
+a:visited {
+  color: #00e607;
+}
+a:hover {
+  color: #00e607;
+}
+
+    /*text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15 #fff, 0 0 20px #fff, 0 0 25px #fff, 0 0 30px #fff, 0 0 35px #fff;*/
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 8px #fff, 0 0 12px #e0ffe1, 0 0 15px #e0ffe1, 0 0 19px #e0ffe1, 0 0 22px #e0ffe1, 0 0 28px #e0ffe1, 0 0 30px #e0ffe1;
+  }
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 15px #e0ffe1, 0 0 20px #e0ffe1, 0 0 25px #e0ffe1, 0 0 30px #e0ffe1, 0 0 35px #e0ffe1, 0 0 40px #e0ffe1;
+  }
+}

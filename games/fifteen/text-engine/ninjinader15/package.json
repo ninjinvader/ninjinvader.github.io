@@ -1,0 +1,16 @@
+{
+  "name": "ninjinader15",
+  "version": "1.0.0",
+  "description": "Ninjinvader15",
+  "main": "main.js",
+  "scripts": {
+    "build": "esbuild main.js --bundle --target=chrome58,firefox57,safari11,edge16 --outfile=../game-disks/ninjinvader15.js",
+    "watch": "esbuild main.js --watch --bundle --target=chrome58,firefox57,safari11,edge16 --outfile=../game-disks/ninjinvader15.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shad Reynolds",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.15.6"
+  }
+}
