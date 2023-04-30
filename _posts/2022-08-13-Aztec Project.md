@@ -9,7 +9,7 @@ game_height: 960
 scale: 0.6
 ---
 
-Created for **World Geo religion project.** Enjoy!  (sfx not working)
+Created for **World Geo religion project.** Enjoy!  (Note: sfx may not be working)
 
 HOW TO PLAY:
 
