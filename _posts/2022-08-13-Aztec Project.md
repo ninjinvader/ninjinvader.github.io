@@ -4,8 +4,8 @@ title:  "🗿Aztec Project WGeo   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 date:   2022-08-13 14:12:32 -0500
 categories: game
 game_directory: games/AZTEC
-game_width: 960
-game_height: 960
+game_width: 640
+game_height: 640
 scale: 1
 ---
 
