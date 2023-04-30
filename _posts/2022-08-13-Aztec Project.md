@@ -10,3 +10,7 @@ scale: 0.6
 ---
 
 Created for **World Geo religion project.** Enjoy!  (sfx not working)
+
+HOW TO PLAY:
+
+All you need for this experience/project is your **mouse**.
