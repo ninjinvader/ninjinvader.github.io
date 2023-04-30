@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎄Merry Christmas BISHOP AND EAMON!!!"
+title:  "🎄BE"
 date:   2022-08-13 14:12:32 -0500
 categories: game
 game_directory: games/FriendsGame_v1
