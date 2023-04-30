@@ -1,0 +1,76 @@
+body {
+  background: #222222;
+  color: #00e607;
+  font-family: 'Press Start 2P', monospace;
+
+  font-size: 2.2vh;
+  line-height: 4vh;
+}
+
+/* scanlines */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+}
+
+.img {
+  white-space: pre;
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#output {
+  padding: 2vw 2vw 0 2vw;
+}
+
+#output div {
+  margin-bottom: 1vw;
+}
+
+.input {
+  display: flex;
+}
+
+a {
+}
+
+#input {
+  color: #00e607;
+  height: 4vh;
+  width: 98.5vh;
+  background: transparent;
+  font-size: 2vh;
+  font-family: 'Press Start 2P', monospace;
+  border: none;
+  position: relative;
+  bottom: 0.175vh;
+  margin-left: .5vw;
+}
+
+span {
+  margin-left: 2vw;
+}
+
+#input:focus {
+  outline: none;
+}
+
+@keyframes blink {
+  0% {background: orange;}
+  49% {background: orange;}
+  60% {background: transparent;}
+  99% {background: transparent;}
+  100% {background: orange;}
+}
+
+.room-name {
+  margin-top: 40px;
+  font-size: 5vh;
+}
