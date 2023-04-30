@@ -6,7 +6,7 @@ categories: game
 game_directory: games/AZTEC
 game_width: 960
 game_height: 960
-scale: 0.3
+scale: 0.6
 ---
 
 Created for **World Geo religion project.** Enjoy!  (sfx not working)
