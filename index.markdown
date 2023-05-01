@@ -6,11 +6,11 @@ title: Ninjinvader
 layout: default
 game_directory: games/title_v1
 ---
-Bonjour! Welcome to my website. I am planning to have many of my games posted here, but for now I'm getting everything sorted out. I hope you like what you see so far, and stick around to see what it's like in the future!
+Welcome to Ninjinvader.com!
 
->> You may not know this, but I acually make lots of games in my spare time.
+>> You may not know this, but I acually make lots of small games/projects in my spare time.
 
-On YouTube I've never spoken about it, but now that I have passed 50 subscribers, I wanted to make some of my projects free to the public! This sort of thing is new for me, so don't be surprised by any weird website design, typ0s, or bugs.  :)
+I hope you enjoy some free games! Keep in mind there might be bugs or issues.
 
 <div id="game_wrapper" style="height:375px; overflow: hidden">
   <iframe src= "/games/title_v2/" id="main_screen_game"
@@ -21,7 +21,7 @@ On YouTube I've never spoken about it, but now that I have passed 50 subscribers
 </div>
 
 ## Links
-* Nothing yet...
+Nothing yet...
 
 ## Games
 <ul>
