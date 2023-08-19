@@ -3,7 +3,7 @@ layout: post
 title:  "HAPPY BIRTHDAY!"
 date:   2022-08-13 14:12:32 -0500
 categories: game
-game_directory: games/birthday_v4
+game_directory: games/dadgame
 game_width: 2732
 game_height: 1536
 scale: 1
