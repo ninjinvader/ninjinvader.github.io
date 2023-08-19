@@ -6,7 +6,7 @@ categories: game
 game_directory: games/fun game 02
 game_width: 1344
 game_height: 768
-scale: 0.6
+scale: 0.8
 ---
 
 **❤️ HAPPY BIRTHDAY!!! ❤️**
