@@ -13,4 +13,4 @@ This is **Feud of Foods**, which is a comic that I made with my brother a while 
 
 HOW TO PLAY:
 
-You will need 2 gamepads (controllers) to play this game. While in the starting lobby, press up on the dpad to get "ready"
+You will need 2 gamepads (controllers) to play this game. While in the starting lobby, press up on the dpad to get "ready".

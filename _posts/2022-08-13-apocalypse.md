@@ -9,7 +9,7 @@ game_height: 640
 scale: 1
 ---
 
-Here is the **Apoocalypse** game I made for a friend, it's really hard... don't lose your mind. Also there are no sound effects.
+Here is the **Apoocalypse** game I made for a friend, it's really hard... don't lose your mind.
 
 
 HOW TO PLAY:
