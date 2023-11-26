@@ -4,8 +4,8 @@ title:  "⚔️BB"
 date:   2022-08-12 14:12:32 -0500
 categories: game
 game_directory: games/BouncinBlades
-game_width: 640
-game_height: 384
+game_width: 1280
+game_height: 768
 scale: 0.5
 ---
 
