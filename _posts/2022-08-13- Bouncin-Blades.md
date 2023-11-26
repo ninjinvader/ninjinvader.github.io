@@ -3,7 +3,7 @@ layout: post
 title:  "⚔️BB"
 date:   2022-08-12 14:12:32 -0500
 categories: game
-game_directory: games/BouncinBlades
+game_directory: games/BouncinBladesv2
 game_width: 1280
 game_height: 768
 scale: 0.5
