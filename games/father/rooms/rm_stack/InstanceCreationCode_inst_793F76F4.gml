@@ -1,2 +1,0 @@
-drop = false;
-done = true;

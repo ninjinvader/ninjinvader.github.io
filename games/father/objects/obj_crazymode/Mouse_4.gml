@@ -1,1 +1,0 @@
-global.crazyMode *= -1;
