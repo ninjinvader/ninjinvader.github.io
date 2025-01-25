@@ -1,0 +1,11 @@
+image_xscale = 0;
+image_yscale = 0;
+ready = false;
+drop = false;
+read = 0;
+done = false;
+spd = random_range(0.01,0.02);
+pos = random_range(-1,1);
+read = pos;
+placed = false;
+top = true;
