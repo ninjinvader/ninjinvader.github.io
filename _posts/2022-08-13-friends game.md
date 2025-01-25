@@ -14,6 +14,6 @@ An interesting game with inspiration taken from Minecraft and Terraria. Made for
 
 **HOW TO PLAY:**
 
-All you need to play this game is your keyboard. Set a seed before playing, then use **WASD** and **Space** to explore. 
+All you need to play this game is your keyboard and mouse. Set a seed before playing, then use **WASD** and **Space** to explore. Hold **Left Mouse** to break blocks, **Right Mouse** to place blocks.
 
 *All code by Gabriel Reynolds. Art found for free online, or made by Gabriel Reynolds.*
