@@ -3,7 +3,7 @@ layout: post
 title:  "👑 Imbossible"
 date:   2022-08-13 14:12:32 -0500
 categories: game
-game_directory: games/icy_caves_v6
+game_directory: games/bossFights
 game_width: 1000
 game_height: 600
 scale: 0.75
