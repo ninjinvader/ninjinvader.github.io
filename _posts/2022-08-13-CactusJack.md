@@ -3,10 +3,10 @@ layout: post
 title:  "🌵 Cactus Jack | Viral Glitch Game Jam 2025"
 date:   2022-08-13 14:12:32 -0500
 categories: game
-game_directory: games/CactusJackHTML5
+game_directory: games/CactusJack html5 new
 game_width: 1344
 game_height: 768
-scale: 0.75
+scale: 1
 ---
 
 **SOMEONE PLEASE STOP CACTUS JACK!** He's been terrorizing the Wild West for years, someone put an end to his mischievous and unpredictable antics! He uses randomized attack combinations to make anyone who stands in his way a forgotten soul of the West...
