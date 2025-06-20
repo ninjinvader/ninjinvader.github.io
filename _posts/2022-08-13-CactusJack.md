@@ -3,7 +3,7 @@ layout: post
 title:  "🌵 Cactus Jack | Viral Glitch Game Jam 2025"
 date:   2022-08-13 14:12:32 -0500
 categories: game
-game_directory: games/CactusJack html5 fix1
+game_directory: games/CactusJack html fix1
 game_width: 1344
 game_height: 768
 scale: 1
